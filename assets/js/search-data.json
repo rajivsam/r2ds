@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Overview",
     "title": "Overview",
-    "content": "The following are salient aspects of a rinse and repeat project: . Breaking down functional (business) tasks into known data science task primitives . Sequencing tasks into an iteration plan . Embracing cloud native technology and high quality data science task libraries to craft a scalable solution. Here is the anatomy of a rinse and repeat data science project. ",
+    "content": "The following are salient aspects of a rinse and repeat project: . Breaking down functional (business) tasks into known data science task primitives. This is a crucial component of any data science project. This takes skill, experience and judgement to do correctly. Very, very easy to do this incorrectly. Sequencing tasks into an iteration plan . Embracing cloud native technology and high quality data science task libraries to craft a scalable solution. Here is the anatomy of a rinse and repeat data science project. ",
     "url": "/about/",
     
     "relUrl": "/about/"
