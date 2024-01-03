@@ -4,9 +4,6 @@
 <loc>/about/</loc>
 </url>
 <url>
-<loc>/</loc>
-</url>
-<url>
 <loc>/recipes/algorithms/</loc>
 </url>
 <url>
@@ -16,7 +13,13 @@
 <loc>/recipes/analytics/</loc>
 </url>
 <url>
+<loc>/</loc>
+</url>
+<url>
 <loc>/interests/</loc>
+</url>
+<url>
+<loc>/process/</loc>
 </url>
 <url>
 <loc>/development/recipe_1.html</loc>
