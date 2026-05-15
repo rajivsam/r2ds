@@ -1,18 +1,32 @@
 {"0": {
     "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "De-Risking Enterprise AI Adoption &amp; Machine Learning Implementation",
+    "content": "I help enterprise engineering teams navigate the complex transition from machine learning prototypes to stable, production-grade business applications. With a background combining machine learning research (ML PhD) and practical software design, I work alongside technical leaders to mitigate execution risks, structural bottlenecks, and the engineering debt that frequently stall corporate AI initiatives. ",
+    "url": "/#de-risking-enterprise-ai-adoption--machine-learning-implementation",
+    
+    "relUrl": "/#de-risking-enterprise-ai-adoption--machine-learning-implementation"
+  },"1": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
+    "title": "Frameworks That Support Implementation Velocity",
+    "content": "To streamline the development lifecycle, my consulting framework integrates open-source engineering assets designed to bring structure to data science workflows: . | Data Science Knowledge Governance (KMDS): An ontology-backed workflow engine that captures experimental rationale, organizes engineering context, and preserves corporate IP during team transitions. | Rigorous Engineering Exploration (tseda): Analytical methodologies that automate early-stage data diagnostics, shortening the validation cycle for complex business use cases. | . | Explore Consulting Services | View Technical Research on Google Scholar | . ",
+    "url": "/#frameworks-that-support-implementation-velocity",
+    
+    "relUrl": "/#frameworks-that-support-implementation-velocity"
+  },"2": {
+    "doc": "AI Expert Consulting | Data Science & Machine Learning Services",
     "title": "AI Expert Consulting | Data Science & Machine Learning Services",
-    "content": ". When executed effectively, data science solutions for enterprise applications can achieve a rinse-and-repeat quality, meaning the process for updating or extending a solution (such as for a new business cycle) becomes streamlined and repeatable. However, reaching this level of maturity is challenging. It usually takes a few iterations to arrive at something worth repeating and improving. This takes experience, skill, and an understanding of your business dynamics. Getting to this point definitely involves making the right technical choices, but it also requires developing a deeper understanding and intuition about your data, use case, and how they relate. Descriptive Analytics has the tools for this, and this is what I can help you with. I am a seasoned data scientist. Please see this link for a professional summary and published work (including my Google Scholar profile). Here are samples of the kinds of analyses I can do for you. If you have a business task that you want to augment or implement with data science, I would appreciate a conversation to explore whether this task falls within my wheelhouse. I have also developed a simple open-source tool to document and maintain analytics and machine learning projects. Ready to move from ideas to implementation? . If you have a business-critical use case in mind, let’s evaluate it together and define a practical first iteration. Book a 30-minute consultation Explore services . ",
+    "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"1": {
+  },"3": {
     "doc": "Data Science Consulting Process",
     "title": "Data Science Consulting Process",
     "content": "My approach to problem-solving is centered around understanding your specific needs and goals, the data you have, and your constraints in terms of time, budget, and resources. I believe that every problem is unique and therefore requires a tailored solution. If we agree to work together, I will work with you to develop an iteration plan that gets us to a solution that is useful for your business. For detailed information about the tools and methodology used to develop your solution, visit the KMDS GitHub repository. Want to apply this process to your own project? Schedule a consultation and we can map out your first iteration plan. ",
     "url": "/process/",
     
     "relUrl": "/process/"
-  },"2": {
+  },"4": {
     "doc": "AI & ML Consulting Services",
     "title": "AI & ML Consulting Services",
     "content": "I help organizations turn AI and machine learning ideas into practical, business-impacting solutions. My work combines data science strategy, hands-on model development, and implementation planning so teams can move from experimentation to repeatable execution. Core Skills . | Business problem framing for AI/ML initiatives | Descriptive and predictive analytics for decision support | Feature design and model development for enterprise use cases | Graph-based analytics when data dependencies matter | Relational-to-graph transformation for complex enterprise datasets | Iterative solution design focused on interpretability and deployment readiness | . Service Offerings . | AI/ML roadmap and opportunity assessment | Discovery and data-readiness analysis | Rapid proof-of-value and early model iterations | Analytics architecture guidance and workflow design | Advisory support for solution teams building AI-enabled products | Coaching and enablement for teams adopting data-driven practices | . My consulting and content development experience spans multiple cultural and business contexts, including the US, India, and Europe. For practical examples, explore Descriptive Analytics Recipes. If you are evaluating a new initiative, book a discovery call to discuss scope, feasibility, and execution. ",
