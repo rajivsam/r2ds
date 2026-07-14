@@ -15,7 +15,7 @@
   },"2": {
     "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
     "title": "Featured SBA Example",
-    "content": "Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view. The KMDS migration repository documents the component-based approach for operational analytics: KMDS migration repository . Raw SBA Loan Dataset ↓ Dataset Understanding ↓ Entity Identification ↓ Cleaning Recommendations ↓ Feature Engineering ↓ Modeling Ready Dataset ↓ Knowledge Preservation ↓ Repeatable Business Decisions . This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management. ",
+    "content": "Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view. The KMDS migration repository documents the component-based approach for operational analytics. Please see this article for a technical overview of the KMDS approach. Raw SBA Loan Dataset ↓ Dataset Understanding ↓ Entity Identification ↓ Cleaning Recommendations ↓ Feature Engineering ↓ Modeling Ready Dataset ↓ Knowledge Preservation ↓ Repeatable Business Decisions . This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management. ",
     "url": "/#featured-sba-example",
     
     "relUrl": "/#featured-sba-example"
