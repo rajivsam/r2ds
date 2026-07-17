@@ -1,88 +1,60 @@
 {"0": {
     "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "content": "I help organizations transform operational data into repeatable analytical systems that are transparent, auditable, and maintainable. What I do: Turn complex operational datasets into usable decision workflows for recurring reporting and planning. Who it is for: Organizations that collect operational data frequently and need dependable monthly or quarterly decisions. ",
-    "url": "/#operational-analytics-for-monthly-and-quarterly-decision-making",
+    "title": "Enterprise-Grade ML, Without the Enterprise Platform Bill",
+    "content": "Dataiku and DataRobot cost real money — licensing, seats, implementation, often $100K+ a year before you’ve shipped a single model. Most companies don’t need the platform. They need the outcome: reliable models in production, decisions that hold up to scrutiny, and a system your team can actually run without a vendor on retainer. I deliver that directly, at a fraction of the cost — as an independent data scientist with 25+ years of engineering experience and a PhD in machine learning. If you’ve already invested in a platform, I complement it: implementation support, model development, and the analytical judgment platforms don’t provide out of the box. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends. Watch a short video describing my background and approach. ",
+    "url": "/#enterprise-grade-ml-without-the-enterprise-platform-bill",
     
-    "relUrl": "/#operational-analytics-for-monthly-and-quarterly-decision-making"
+    "relUrl": "/#enterprise-grade-ml-without-the-enterprise-platform-bill"
   },"1": {
     "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Methodology",
-    "content": ". | Identify the business decision. | Identify the unit of analysis. | Understand temporal structure. | Identify entities and relationships. | Assess data quality. | Design features. | Select modeling strategy. | Capture assumptions and operational risks. | Preserve analytical knowledge. | . ",
-    "url": "/#methodology",
-    
-    "relUrl": "/#methodology"
-  },"2": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Featured SBA Example",
-    "content": "Raw SBA loan data becomes the example for a repeatable operational analytics workflow. This example shows how raw operational data is turned into a stable, repeatable decision process using a KMDS component view. The KMDS migration repository documents the component-based approach for operational analytics. Please see this article for a technical overview of the KMDS approach. Raw SBA Loan Dataset ↓ Dataset Understanding ↓ Entity Identification ↓ Cleaning Recommendations ↓ Feature Engineering ↓ Modeling Ready Dataset ↓ Knowledge Preservation ↓ Repeatable Business Decisions . This is the same approach used for lending, customer analytics, operations, demand forecasting, service delivery, and asset management. ",
-    "url": "/#featured-sba-example",
-    
-    "relUrl": "/#featured-sba-example"
-  },"3": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
     "title": "Who I Help",
-    "content": ". | Organizations with operational data collected daily, weekly, or monthly | Teams that review decisions on a monthly or quarterly cadence | Leaders who need consistent definitions, lineage, and explainable decisions | Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management | . ",
+    "content": ". | Teams evaluating Dataiku, DataRobot, or similar platforms who are hesitant on cost or implementation time | Organizations that already own a platform license but need hands-on help getting value from it | Organizations with operational data collected daily, weekly, or monthly | Leaders who need consistent definitions, lineage, and explainable decisions — without the platform overhead | Groups focused on lending, customer analytics, operations, forecasting, service delivery, or asset management | . ",
     "url": "/#who-i-help",
     
     "relUrl": "/#who-i-help"
+  },"2": {
+    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
+    "title": "How I’m Different From a Platform",
+    "content": "A platform sells you software and leaves the thinking to your team. I do the thinking and build the system — direct engagement, no seat licenses, no minimum contract tiers. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework underneath the work — a methodology for delivering ML products with auditability, transparency, and reproducibility built in from day one. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable long after the engagement ends. Explore the full KMDS methodology → . ",
+    "url": "/#how-im-different-from-a-platform",
+    
+    "relUrl": "/#how-im-different-from-a-platform"
+  },"3": {
+    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
+    "title": "Featured Example: SBA Loan Analytics",
+    "content": "Raw SBA loan data becomes the example for a repeatable operational analytics workflow — the same kind of system a platform would charge enterprise rates to build. Raw SBA Loan Dataset ↓ Dataset Understanding ↓ Entity Identification ↓ Cleaning Recommendations ↓ Feature Engineering ↓ Modeling Ready Dataset ↓ Knowledge Preservation ↓ Repeatable Business Decisions . See the KMDS migration repository and technical overview article for details. ",
+    "url": "/#featured-example-sba-loan-analytics",
+    
+    "relUrl": "/#featured-example-sba-loan-analytics"
   },"4": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Methodology Before Tooling",
-    "content": "Most analytics projects underperform not because the model is weak, but because the surrounding system is not repeatable. The questions I answer first are: . | What is the unit of analysis? | What entities and temporal structure exist? | What decision does this dataset support? | How will the solution be maintained over time? | . A durable methodology matters before tooling. Platforms such as KMDS support this work, but clients buy repeatable outcomes, not software. ",
-    "url": "/#methodology-before-tooling",
-    
-    "relUrl": "/#methodology-before-tooling"
-  },"5": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Why not just use…",
-    "content": "Documentation . Documentation remains essential, but documents are difficult to maintain, search, and reuse during day-to-day analytical work. As projects evolve, critical decisions become scattered across notebooks, reports, tickets, and emails. KMDS treats documentation as raw material rather than the final product. Analytical decisions are captured as structured knowledge that can be queried, traced, and reused by both people and AI agents. AI Coding Assistants . Modern AI assistants are excellent at generating code, summarizing information, and automating repetitive tasks. However, they can only reason from the information they are given. If the rationale behind feature engineering, modeling choices, or business assumptions was never captured, an AI assistant cannot recover it. KMDS focuses on preserving that analytical reasoning so future assistants can build upon institutional knowledge instead of starting from scratch. MLOps and Operational AI Platforms . Operational AI platforms excel at deploying, monitoring, and scaling machine learning systems in production. They answer questions such as: . | How is the model deployed? | Is the service healthy? | Has model performance degraded? | . KMDS addresses a different stage of the lifecycle. It focuses on understanding the data, documenting analytical decisions, preserving modeling rationale, and maintaining organizational knowledge before and during model development. The two approaches are complementary rather than competing. Knowledge Management for Data Science . Most organizations already possess valuable analytical knowledge. The challenge is that it is often distributed across repositories, notebooks, documents, and individual experience. KMDS transforms that fragmented knowledge into a structured organizational asset that can be searched, audited, and reused over time. The objective is not simply to build better models. It is to preserve the reasoning behind those models so that future teams—and future AI systems—can understand, extend, and trust the analytical decisions that were made. ",
-    "url": "/#why-not-just-use",
-    
-    "relUrl": "/#why-not-just-use"
-  },"6": {
     "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
     "title": "Technical Focus Areas",
     "content": ". | Statistical Learning Systems | Graph Machine Learning | Analytical Infrastructure | Optimization &amp; Recommendation Systems | Explainable AI Systems | Knowledge Graph Systems for ML and AI explainability and traceability | . ",
     "url": "/#technical-focus-areas",
     
     "relUrl": "/#technical-focus-areas"
+  },"5": {
+    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
+    "title": "Background",
+    "content": "25+ years of engineering experience developing analytical solutions across retail, telecom, transport, finance, government, and software tools, plus formal PhD-level training in machine learning. Selected publications spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale ML infrastructure are available on Google Scholar. ",
+    "url": "/#background",
+    
+    "relUrl": "/#background"
+  },"6": {
+    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
+    "title": "Let’s Talk",
+    "content": "If you’re weighing the cost of a Dataiku or DataRobot license — or already have one and need someone to make it work — let’s talk about a direct engagement. Available for contract and advisory engagements. LinkedIn · GitHub · Google Scholar . ",
+    "url": "/#lets-talk",
+    
+    "relUrl": "/#lets-talk"
   },"7": {
     "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Selected Publications",
-    "content": "Selected publications and research contributions spanning scalable statistical learning, graph-oriented analytical systems, optimization, and enterprise-scale machine learning infrastructure are available on my Google Scholar profile. View Google Scholar Profile . ",
-    "url": "/#selected-publications",
-    
-    "relUrl": "/#selected-publications"
-  },"8": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Research Philosophy",
-    "content": "I am interested in analytical systems that combine mathematical rigor, interpretability, graph-based representations, scalable systems engineering, and operational reproducibility within enterprise environments. This intersection between statistical learning, systems architecture, and knowledge representation forms the foundation of my current work. ",
-    "url": "/#research-philosophy",
-    
-    "relUrl": "/#research-philosophy"
-  },"9": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Current Areas of Interest",
-    "content": ". | Graph-centric machine learning systems | Knowledge-oriented analytical infrastructure | Interpretable statistical learning | Analytical lineage and reproducibility | Enterprise-scale ML systems architecture | Semantic systems for applied AI | . ",
-    "url": "/#current-areas-of-interest",
-    
-    "relUrl": "/#current-areas-of-interest"
-  },"10": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "title": "Contact",
-    "content": "For analytical systems architecture, graph machine learning, optimization systems, interpretable ML infrastructure, and research collaborations. Available for contract and advisory engagements with U.S.-based organizations. LinkedIn · GitHub . | Explore Methodology | View Technical Research on Google Scholar | . ",
-    "url": "/#contact",
-    
-    "relUrl": "/#contact"
-  },"11": {
-    "doc": "Operational Analytics for Monthly and Quarterly Decision Making",
     "title": "Operational Analytics for Monthly and Quarterly Decision Making",
-    "content": "Most machine learning consulting leaves organizations with a common problem: models that perform well in a sandbox but break when exposed to real-world operational data, leaving internal teams with a system they cannot easily audit or maintain. I bring 25+ years of engineering experience developing analytical solutions across multiple industries, together with formal training in machine learning at the PhD level. I use Knowledge-Centric Machine Learning Systems (KMDS) as the framework for delivering ML products with auditability, transparency, and reproducibility built in. Because operational data is rarely clean or static, the real value comes from capturing and structuring the analytical knowledge, feature definitions, and data dependencies that make a solution sustainable. That keeps ML aligned with how your business operates and turns operational data into a reliable asset your team can confidently manage over the long term. Watch a short video describing my background and the KMDS approach to operational model development. ",
+    "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"12": {
+  },"8": {
     "doc": "Methodology for Consulting",
     "title": "Methodology for Consulting",
     "content": "I help organizations build repeatable analytical systems around operational business data. The focus is on methodology first: understand the data, understand the decisions, create analytical assets, and preserve the knowledge that makes the solution durable. Consulting Methodology . | Understand the operational process and decision cadence. | Analyze the current datasets, quality issues, and constraints. | Modernize and document data structures and definitions. | Build reusable feature engineering components. | Develop and validate analytical or machine learning models. | Preserve analytical knowledge for repeatable execution. | . Delivery Rhythm . | Define one high-value decision workflow first. | Build an initial version that is usable by stakeholders. | Review results and operational fit with domain teams. | Iterate toward a stable monthly or quarterly cycle. | Capture assumptions, metadata, and handoff documentation. | . Step 1: Understand the Data . Questions: . | What is the unit of analysis? | What entities exist? | What temporal structure exists? | What is the baseline data quality? | . Tools: . | DD Parser Cleaner | Dataset profiling | . Step 2: Understand the Business Process . Questions: . | What decisions are being made? | What relationships matter? | What patterns are stable? | . Tools: . | KMDS component analysis | Entity analytics | . Step 3: Create Analytical Assets . Questions: . | What features matter? | What models are appropriate? | What operational assumptions exist? | . Tools: . | Featurization | Modeling governance | . Step 4: Preserve Knowledge . Questions: . | What was learned? | What assumptions were made? | How is the solution maintained? | . Tools: . | KMDS | . Typical Engagement Outcomes . | Repeatable monthly or quarterly workflows | Consistent definitions and operational metrics | Clear feature lineage and interpretable model inputs | Durable documentation and analytical handoff | . My consulting and methodological design experience spans the US, India, and Europe. For practical examples, explore the KMDS migration repository. If you are evaluating a new initiative, book a discovery call to discuss scope, feasibility, and execution. ",
